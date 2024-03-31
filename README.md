@@ -13,4 +13,5 @@ A tool to find formats/specs for various file extensions.
 | ``` 66 74 79 70 ``` | .mp4 | Moving Picture Experts Group 4 part 14 file | [Microsoft Word](https://ossrs.io/lts/zh-cn/assets/files/ISO_IEC_14496-14-MP4-2003-9a3eb04879ded495406399602ff2e587.pdf) |
 | ``` FF D8 ``` | .jpg, .jpeg | Joint Photographic Experts Group image file | [(Thank you corkami)](https://github.com/corkami/formats/blob/master/image/jpeg.md) |
 | ``` 47 49 46 38 __ 61 ``` | .gif | Graphics Interchange Format image file | [w3.org](https://www.w3.org/Graphics/GIF/spec-gif89a.txt) |
+| ``` 5A 4D  -OR-  4D 5A ``` | .exe | Microsoft Executable file | [(Thank you joachimmetz)](https://github.com/libyal/libexe/blob/main/documentation/Executable%20(EXE)%20file%20format.asciidoc) |
 
