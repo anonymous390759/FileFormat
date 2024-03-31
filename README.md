@@ -7,3 +7,4 @@ A tool to find formats/specs for various file extensions.
 | ``` 4E 45 53 1A ``` | .nes | (iNES) nes rom |[INES - NESdev Wiki](https://www.nesdev.org/wiki/INES) |
 | ``` 89 50 4E 47 0D 0A 1A 0A ``` | .png | Portable Network Graphics image | [PNG Specification](http://www.libpng.org/pub/png/spec/1.2/PNG-Structure.html) |
 | ``` 52 61 72 21 1A 07 01 00 ``` | .rar | Roshal Archive file | [RAR 5.0 archive format](https://www.rarlab.com/technote.htm) |
+| ``` 50 4B 03 04 ``` | .zip | Phil Katz zip compression | [The structure of a PKZip file](https://users.cs.jmu.edu/buchhofp/forensics/formats/pkzip.html) |
