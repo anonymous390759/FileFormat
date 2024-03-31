@@ -19,3 +19,4 @@ A tool to find formats/specs for various file extensions.
 | ``` __ 57 53 ``` | .swf | Adobe Shockwave file | [untitled](https://open-flash.github.io/mirrors/swf-spec-19.pdf) |
 | ``` 50 41 54 43 48 ``` | .ips | International Patching System | [IPS format](https://www.anosh.se/ips/) |
 | ``` 4D 54 68 64 ``` | .mid | Musical Instrument Digital Interface file | [Standard MIDI File Structure](https://ccrma.stanford.edu/~craig/14q/midifile/MidiFileFormat.html) |
+| ``` 37 7A ``` | .7z | 7-Zip archive | [.7z format specification](https://py7zr.readthedocs.io/en/latest/archive_format.html) |
