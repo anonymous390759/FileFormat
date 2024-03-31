@@ -18,3 +18,4 @@ A tool to find formats/specs for various file extensions.
 | ``` 42 4D ``` | .bmp | Bitmap file | [THE BMP FILE FORMAT](https://www.ece.ualberta.ca/~elliott/ee552/studentAppNotes/2003_w/misc/bmp_file_format/bmp_file_format.htm) |
 | ``` __ 57 53 ``` | .swf | Adobe Shockwave file | [untitled](https://open-flash.github.io/mirrors/swf-spec-19.pdf) |
 | ``` 50 41 54 43 48 ``` | .ips | International Patching System | [IPS format](https://www.anosh.se/ips/) |
+| ``` 4D 54 68 64 ``` | .mid | Musical Instrument Digital Interface file | [Standard MIDI File Structure](https://ccrma.stanford.edu/~craig/14q/midifile/MidiFileFormat.html) |
