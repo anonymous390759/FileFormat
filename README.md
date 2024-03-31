@@ -17,3 +17,4 @@ A tool to find formats/specs for various file extensions.
 | ``` 42 5A 68 ``` | .bz2 | BZip2 Archive | [(Thank you dsnet)](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf) |
 | ``` 42 4D ``` | .bmp | Bitmap file | [THE BMP FILE FORMAT](https://www.ece.ualberta.ca/~elliott/ee552/studentAppNotes/2003_w/misc/bmp_file_format/bmp_file_format.htm) |
 | ``` __ 57 53 ``` | .swf | Adobe Shockwave file | [untitled](https://open-flash.github.io/mirrors/swf-spec-19.pdf) |
+| ``` 50 41 54 43 48 ``` | .ips | International Patching System | [IPS format](https://www.anosh.se/ips/) |
